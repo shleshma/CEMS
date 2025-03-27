@@ -1,2 +1,1 @@
-# CEMS
-College Event Management System
+# College Event Management System (CEMS)
